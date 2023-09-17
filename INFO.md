@@ -1,2 +1,2 @@
-New head
-huiiiiiii
+git is awesome!
+new line
